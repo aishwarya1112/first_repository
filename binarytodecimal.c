@@ -16,5 +16,5 @@ void main()
   dec=dec+(rem*i);
   i=i*10;
   }
-  return bin;
+  return dec;
   }
